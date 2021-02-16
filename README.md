@@ -1,4 +1,4 @@
-# Point_net
+# PointNet
 
 <!--- ![alt-text-1](https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif "title-1") ![alt-text-2](https://github.com/Manojkl/Point_net/blob/main/data_gif/bed.gif "title-2") -->
 
