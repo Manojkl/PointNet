@@ -2,6 +2,12 @@
 
 ![alt-text-1](https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif "title-1") ![alt-text-2](https://github.com/Manojkl/Point_net/blob/main/data_gif/bed.gif "title-2")
 
+<p float="left">
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif " width="100" />
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif " width="100" /> 
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif " width="100" />
+</p>
+
 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 
 Implemetation of Pointnet in pytorch
