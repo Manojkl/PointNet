@@ -2,7 +2,7 @@
 
 <!--- ![alt-text-1](https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif "title-1") ![alt-text-2](https://github.com/Manojkl/Point_net/blob/main/data_gif/bed.gif "title-2") -->
 
-<p float="left">
+<p >
   <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif " width="300" alt="Girl in a jacket" title="bathtub"/>
   <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bed.gif " width="300" title="bed"/> 
   <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/chair.gif " width="300" title="chair"/>
