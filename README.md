@@ -27,5 +27,5 @@ Point cloud is an important type of geometric data structure. Due to its irregul
 [1] [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) <br>
 [2] [An introduction towards 3D Computer Vision](https://medium.com/@jianshi_94445/an-introduction-towards-3d-computer-vision-71be8ce11956) <br> 
 [3] [An In-Depth Look at PointNet](https://medium.com/@luis_gonzales/an-in-depth-look-at-pointnet-111d7efdaa1a) <br>
-[4] [Deep Learning on Point clouds: Implementing PointNet in Google Colab](https://towardsdatascience.com/deep-learning-on-point-clouds-implementing-pointnet-in-google-colab-1fd65cd3a263) <br>
+[4] [Deep Learning on Point clouds: PointNet](https://towardsdatascience.com/deep-learning-on-point-clouds-implementing-pointnet-in-google-colab-1fd65cd3a263) <br>
 [5] [Modelnet dataset](https://modelnet.cs.princeton.edu/)
