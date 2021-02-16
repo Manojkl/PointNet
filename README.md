@@ -8,6 +8,11 @@
   <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/chair.gif " width="300" title="chair"/>
   <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/desk.gif " width="300" title="desk"/>
   <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/dresser.gif " width="300" title="dresser"/>
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/monitor.gif " width="300" title="monitor"/>
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/night_stand.gif " width="300" title="Night stand"/>
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/sofa.gif " width="300" title="sofa"/>
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/table.gif " width="300" title="table"/>
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/toilet.gif " width="300" title="toilet"/>
 </p>
 
 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
