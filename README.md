@@ -1,11 +1,13 @@
 # Point_net
 
-![alt-text-1](https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif "title-1") ![alt-text-2](https://github.com/Manojkl/Point_net/blob/main/data_gif/bed.gif "title-2")
+<!--- ![alt-text-1](https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif "title-1") ![alt-text-2](https://github.com/Manojkl/Point_net/blob/main/data_gif/bed.gif "title-2") -->
 
 <p float="left">
-  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif " width="100" />
-  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif " width="100" /> 
-  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif " width="100" />
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bathtub.gif " width="300" title="bathtub"/>
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/bed.gif " width="300" title="bed"/> 
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/chair.gif " width="300" title="chair"/>
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/desk.gif " width="300" title="desk"/>
+  <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/dresser.gif " width="300" title="dresser"/>
 </p>
 
 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
