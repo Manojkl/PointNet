@@ -15,7 +15,7 @@
   <img src="https://github.com/Manojkl/Point_net/blob/main/data_gif/toilet.gif " width="300" title="toilet"/>
 </p>
 
-PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation 
 
 Implemetation of Pointnet in pytorch using Modelnet10[5] dataset containing 10 classes. 
 
